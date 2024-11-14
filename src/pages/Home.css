@@ -1,0 +1,12 @@
+.home {
+  text-align: center;
+  padding: 20px;
+}
+
+.home img {
+  width: 300px;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(81, 25, 184, 0.2);
+}
